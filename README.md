@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UihwanLee&fontSize=50" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=UihwanLee%20Github&fontSize=90)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UihwanLee&theme=react&show_icons=true) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luh5063014)](https://solved.ac/luh5063014)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **UihwanLee/UihwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
