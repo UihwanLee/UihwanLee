@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=100&width=600&text=UihwanLee&fontSize=50&theme=gruvbox&show_icons=true&desc=TO%20BE%20%BEST%20GAME%10DEVEOLPER&descSize=20&descAlign=80&descAlignY=70&fontAlignY=40" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=UihwanLeee%20Github&fontSize=70&desc=To%20Be%20Best%20Developer&descSize=20&descAlign=80&descAlignY=70)
 
 <h3 align = "center"> 🛠 The Tech 🛠 </h3> 
 
