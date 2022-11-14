@@ -36,8 +36,8 @@
   
  <p align=center>
  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=UihwanLee&show_icons=true&theme=react" />
+    <a>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UihwanLee&theme=react&show_icons=true)
     </a>
    <a href="https://solved.ac/luh5063014" title="Go to Source">
       <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luh5063014" alt="Solved.ac프로필" />
