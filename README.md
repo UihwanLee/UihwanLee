@@ -3,7 +3,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luh5063014)](https://solved.ac/luh5063014)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/UihwanLee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UihwanLee)](https://github.com/UihwanLee/github-readme-stats)
 
 <!--
 **UihwanLee/UihwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
