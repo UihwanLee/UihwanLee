@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=UihwanLee%20Github&fontSize=90)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=UihwanLee&fontSize=50" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UihwanLee&theme=react&show_icons=true) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luh5063014)](https://solved.ac/luh5063014)
