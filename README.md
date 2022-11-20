@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></br>
+  <img src="https://img.shields.io/badge/Unity-F5F5F5?style=flat-square&logo=Unity&logoColor=black"/></br>
 </p>
 
 <br>
